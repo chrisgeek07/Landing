@@ -1,0 +1,21 @@
+.banner {
+    background-image: linear-gradient(rgba(40, 39, 39, 0.7), rgba(36, 36, 36, 0.5)), url('https://source.unsplash.com/1600x900/?yosemite');
+    background-size: cover;
+    background-position: center;
+    margin: 0;
+    padding: 150px 0;
+    color: white;
+}
+
+.banner h1, p {
+    margin: 0;
+}
+
+.banner h1 {
+    font-size: 42px;
+}
+
+.banner p {
+    font-size: 18px;
+    color: rgba(200, 200, 200, 0.9);
+}

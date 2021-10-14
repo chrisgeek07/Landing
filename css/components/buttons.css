@@ -1,0 +1,48 @@
+
+.btn-medium {
+    display: inline-block;
+    text-decoration: none;
+    padding: 10px 25px;
+    border: 1px solid #999999;
+    color: #999999;
+    border-radius: 50px;
+    opacity: 0.6;
+    transition: all 300ms ease-in;
+}
+
+.btn-medium:hover {
+    opacity: 1;
+}
+
+.btn-treehouse {
+    display: inline-block;
+    text-decoration: none;
+    background-color: #6AD58B;
+    font-weight: 700;
+    padding: 10px 25px;
+    color: white;
+    border-radius: 4px;
+    opacity: 0.6;
+    transition: all 300ms ease-in;
+}
+
+.btn-treehouse:hover {
+    opacity: 1;
+}
+
+.btn-gradient {
+    display: inline-block;
+    text-decoration: none;
+    color: white;
+    font-weight: 700;
+    padding: 15px 25px;
+    border-radius: 25px;
+    background-image: linear-gradient(to right, #95bf74, #34c759, #087e37 );
+    background-size: 200%;
+    transition: all 300ms ease-in;
+    margin-top: 20px;
+}
+
+.btn-gradient:hover {
+    background-position: right;
+}
