@@ -5,10 +5,10 @@
 @import url('https://use.fontawesome.com/releases/v5.6.3/css/all.css');
 
 /* CSS Components */
-@import url(/landing/css/components/banners.css);
-@import url(/landing/css/components/buttons.css);
-@import url(/landing/css/components/cards.css);
-@import url(/landing/css/components/footer.css);
+@import url(/landing-1/css/components/banners.css);
+@import url(/landing-1/css/components/buttons.css);
+@import url(/landing-1/css/components/cards.css);
+@import url(/landing-1/css/components/footer.css);
 
 /* Utilities */
 body {
